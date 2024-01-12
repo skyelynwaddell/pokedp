@@ -1,6 +1,7 @@
-# Pokémon Crystal [![Build Status][ci-badge]][ci]
+# Pokémon Diamond / Pearl GBC [![Build Status][ci-badge]][ci]
 
-This is a disassembly of Pokémon Crystal.
+https://discord.gg/yr5gS8tr4s
+https://www.deviantart.com/ver2ion/gallery/90563200/pokemon-gbc-sprites-gen-4-sinnoh
 
 It builds the following ROMs:
 
@@ -21,7 +22,7 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 - [**Wiki**][wiki] (includes [tutorials][tutorials])
 - [**Symbols**][symbols]
 
-You can find us on [Discord (pret, #pokecrystal)](https://discord.gg/d5dubZ3).
+You can find pokecrystal on [Discord (pret, #pokecrystal)](https://discord.gg/d5dubZ3).
 
 For other pret projects, see [pret.github.io](https://pret.github.io/).
 
