@@ -1,12 +1,6 @@
-# Pokémon Diamond & Pearl GBC - pokecrystal [![Build Status][ci-badge]][ci]
+# Pokémon Crystal [![Build Status][ci-badge]][ci]
 
-TODO
-- add sinnoh pokemon / pokedex [151 total]
-- add gen 4 moveset????
-- redo the map????? idk abt this one lol
-
-//boiler code
-This is a disassembly from pokecrystal [Pokémon Crystal].
+This is a disassembly of Pokémon Crystal.
 
 It builds the following ROMs:
 
