@@ -1,11 +1,16 @@
 # Pokémon Diamond / Pearl GBC [![Build Status][ci-badge]][ci]
 
+<b>pokedp discord:<b>
+<br>
 https://discord.gg/yr5gS8tr4s
+<br>
+
+<b>pokedp gen4 sprites<b>
 <br>
 https://www.deviantart.com/ver2ion/gallery/90563200/pokemon-gbc-sprites-gen-4-sinnoh
 <br>
 
-Use: ``bash make.sh`` to build rom and embedded all gen4 png palettes and auto start rom (make sure mGBA.app is in pokedp root folder)
+Use: ``bash make.sh`` to build rom, embedded all gen4 png palettes and auto start rom in emulator (make sure mGBA.app is in pokedp root folder)
 
 It builds the following ROMs:
 
