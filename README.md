@@ -10,7 +10,7 @@ https://discord.gg/yr5gS8tr4s
 https://www.deviantart.com/ver2ion/gallery/90563200/pokemon-gbc-sprites-gen-4-sinnoh
 <br>
 
-[macOS]
+[macOS] <br>
 Use: ``bash make.sh`` to build rom, embedded all gen4 png palettes and auto start rom in emulator (make sure mGBA.app is in pokedp root folder)
 
 It builds the following ROMs:
