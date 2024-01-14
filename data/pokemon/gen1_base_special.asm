@@ -3,17 +3,17 @@
 KantoMonSpecials:
 	table_width 1, KantoMonSpecials
 	db  65 ; TURTWIG
-	db  80 ; IVYSAUR
-	db 100 ; VENUSAUR
+	db  80 ; GROTLE
+	db 100 ; TORTERRA
 	db  50 ; CHIMCHAR
-	db  65 ; CHARMELEON
-	db  85 ; CHARIZARD
+	db  65 ; MONFERNO
+	db  85 ; INFERNAPE
 	db  50 ; PIPLUP
-	db  65 ; WARTORTLE
-	db  85 ; BLASTOISE
-	db  20 ; CATERPIE
-	db  25 ; METAPOD
-	db  80 ; BUTTERFREE
+	db  65 ; PRINPLUP
+	db  85 ; EMPOLEON
+	db  20 ; STARLY
+	db  25 ; STARAVIA
+	db  80 ; STARAPTOR
 	db  20 ; WEEDLE
 	db  25 ; KAKUNA
 	db  45 ; BEEDRILL

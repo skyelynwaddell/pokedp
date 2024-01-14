@@ -2,9 +2,18 @@
 
 AlphabeticalPokedexOrder:
 	table_width 1, AlphabeticalPokedexOrder
-	db CHIMCHAR
-	db PIPLUP
 	db TURTWIG
+	db GROTLE
+	db TORTERRA
+	db CHIMCHAR
+	db MONFERNO
+	db INFERNAPE
+	db PIPLUP
+	db PRINPLUP
+	db EMPOLEON
+	db STARLY
+	db STARAVIA
+	db STARAPTOR
 	db ABRA
 	db AERODACTYL
 	db AIPOM
@@ -19,14 +28,9 @@ AlphabeticalPokedexOrder:
 	db BEEDRILL
 	db BELLOSSOM
 	db BELLSPROUT
-	db BLASTOISE
 	db BLISSEY
-	db BUTTERFREE
-	db CATERPIE
 	db CELEBI
 	db CHANSEY
-	db CHARIZARD
-	db CHARMELEON
 	db CHIKORITA
 	db CHINCHOU
 	db CLEFABLE
@@ -95,7 +99,6 @@ AlphabeticalPokedexOrder:
 	db HOUNDOUR
 	db HYPNO
 	db IGGLYBUFF
-	db IVYSAUR
 	db JIGGLYPUFF
 	db JOLTEON
 	db JUMPLUFF
@@ -132,7 +135,6 @@ AlphabeticalPokedexOrder:
 	db MAROWAK
 	db MEGANIUM
 	db MEOWTH
-	db METAPOD
 	db MEW
 	db MEWTWO
 	db MILTANK
@@ -237,12 +239,10 @@ AlphabeticalPokedexOrder:
 	db VAPOREON
 	db VENOMOTH
 	db VENONAT
-	db VENUSAUR
 	db VICTREEBEL
 	db VILEPLUME
 	db VOLTORB
 	db VULPIX
-	db WARTORTLE
 	db WEEDLE
 	db WEEPINBELL
 	db WEEZING

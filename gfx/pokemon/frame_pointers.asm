@@ -1,17 +1,17 @@
 FramesPointers:
 	table_width 2, FramesPointers
 	dw TurtwigFrames
-	dw IvysaurFrames
-	dw VenusaurFrames
+	dw GrotleFrames
+	dw TorterraFrames
 	dw ChimcharFrames
-	dw CharmeleonFrames
-	dw CharizardFrames
+	dw MonfernoFrames
+	dw InfernapeFrames
 	dw PiplupFrames
-	dw WartortleFrames
-	dw BlastoiseFrames
-	dw CaterpieFrames
-	dw MetapodFrames
-	dw ButterfreeFrames
+	dw PrinplupFrames
+	dw EmpoleonFrames
+	dw StarlyFrames
+	dw StaraviaFrames
+	dw StaraptorFrames
 	dw WeedleFrames
 	dw KakunaFrames
 	dw BeedrillFrames

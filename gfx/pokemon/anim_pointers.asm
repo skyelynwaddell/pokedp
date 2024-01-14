@@ -1,17 +1,17 @@
 AnimationPointers:
 	table_width 2, AnimationPointers
 	dw TurtwigAnimation
-	dw IvysaurAnimation
-	dw VenusaurAnimation
+	dw GrotleAnimation
+	dw TorterraAnimation
 	dw ChimcharAnimation
-	dw CharmeleonAnimation
-	dw CharizardAnimation
+	dw MonfernoAnimation
+	dw InfernapeAnimation
 	dw PiplupAnimation
-	dw WartortleAnimation
-	dw BlastoiseAnimation
-	dw CaterpieAnimation
-	dw MetapodAnimation
-	dw ButterfreeAnimation
+	dw PrinplupAnimation
+	dw EmpoleonAnimation
+	dw StarlyAnimation
+	dw StaraviaAnimation
+	dw StaraptorAnimation
 	dw WeedleAnimation
 	dw KakunaAnimation
 	dw BeedrillAnimation

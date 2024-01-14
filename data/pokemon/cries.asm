@@ -7,17 +7,17 @@ PokemonCries::
 ; entries correspond to constants/pokemon_constants.asm
 	table_width MON_CRY_LENGTH, PokemonCries
 	mon_cry CRY_BULBASAUR,   128,  129 ; TURTWIG
-	mon_cry CRY_BULBASAUR,    32,  256 ; IVYSAUR
-	mon_cry CRY_BULBASAUR,     0,  320 ; VENUSAUR
+	mon_cry CRY_BULBASAUR,    32,  256 ; GROTLE
+	mon_cry CRY_BULBASAUR,     0,  320 ; TORTERRA
 	mon_cry CRY_CHARMANDER,   96,  192 ; CHIMCHAR
-	mon_cry CRY_CHARMANDER,   32,  192 ; CHARMELEON
-	mon_cry CRY_CHARMANDER,    0,  256 ; CHARIZARD
+	mon_cry CRY_CHARMANDER,   32,  192 ; MONFERNO
+	mon_cry CRY_CHARMANDER,    0,  256 ; INFERNAPE
 	mon_cry CRY_SQUIRTLE,     96,  192 ; PIPLUP
-	mon_cry CRY_SQUIRTLE,     32,  192 ; WARTORTLE
-	mon_cry CRY_BLASTOISE,     0,  256 ; BLASTOISE
-	mon_cry CRY_CATERPIE,    128,  160 ; CATERPIE
-	mon_cry CRY_METAPOD,     204,  129 ; METAPOD
-	mon_cry CRY_CATERPIE,    119,  192 ; BUTTERFREE
+	mon_cry CRY_SQUIRTLE,     32,  192 ; PRINPLUP
+	mon_cry CRY_BLASTOISE,     0,  256 ; EMPOLEON
+	mon_cry CRY_CATERPIE,    128,  160 ; CATERPIE	 STARLY
+	mon_cry CRY_METAPOD,     204,  129 ; METAPOD	 STARAVIA
+	mon_cry CRY_CATERPIE,    119,  192 ; BUTTERFREE	 STARAPTOR
 	mon_cry CRY_WEEDLE,      238,  129 ; WEEDLE
 	mon_cry CRY_BLASTOISE,   255,  129 ; KAKUNA
 	mon_cry CRY_BLASTOISE,    96,  256 ; BEEDRILL

@@ -29,7 +29,7 @@ OlivineMartCooltrainerFText:
 	done
 
 OlivineMartLassText:
-	text "My BUTTERFREE came"
+	text "My STARAPTOR came"
 	line "from my boyfriend"
 	cont "overseas."
 

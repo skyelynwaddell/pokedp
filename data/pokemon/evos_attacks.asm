@@ -15,7 +15,7 @@ SECTION "Evolutions and Attacks", ROMX
 INCLUDE "data/pokemon/evos_attacks_pointers.asm"
 
 TurtwigEvosAttacks:
-	db EVOLVE_LEVEL, 16, IVYSAUR
+	db EVOLVE_LEVEL, 16, GROTLE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 4, GROWL
@@ -30,8 +30,8 @@ TurtwigEvosAttacks:
 	db 46, SOLARBEAM
 	db 0 ; no more level-up moves
 
-IvysaurEvosAttacks:
-	db EVOLVE_LEVEL, 32, VENUSAUR
+GrotleEvosAttacks:
+	db EVOLVE_LEVEL, 32, TORTERRA
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL
@@ -48,7 +48,7 @@ IvysaurEvosAttacks:
 	db 56, SOLARBEAM
 	db 0 ; no more level-up moves
 
-VenusaurEvosAttacks:
+TorterraEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL
@@ -67,7 +67,7 @@ VenusaurEvosAttacks:
 	db 0 ; no more level-up moves
 
 ChimcharEvosAttacks:
-	db EVOLVE_LEVEL, 16, CHARMELEON
+	db EVOLVE_LEVEL, 16, MONFERNO
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, GROWL
@@ -81,8 +81,8 @@ ChimcharEvosAttacks:
 	db 49, FIRE_SPIN
 	db 0 ; no more level-up moves
 
-CharmeleonEvosAttacks:
-	db EVOLVE_LEVEL, 36, CHARIZARD
+MonfernoEvosAttacks:
+	db EVOLVE_LEVEL, 36, INFERNAPE
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, GROWL
@@ -97,7 +97,7 @@ CharmeleonEvosAttacks:
 	db 55, FIRE_SPIN
 	db 0 ; no more level-up moves
 
-CharizardEvosAttacks:
+InfernapeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, GROWL
@@ -115,7 +115,7 @@ CharizardEvosAttacks:
 	db 0 ; no more level-up moves
 
 PiplupEvosAttacks:
-	db EVOLVE_LEVEL, 16, WARTORTLE
+	db EVOLVE_LEVEL, 16, PRINPLUP
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 4, TAIL_WHIP
@@ -130,8 +130,8 @@ PiplupEvosAttacks:
 	db 47, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-WartortleEvosAttacks:
-	db EVOLVE_LEVEL, 36, BLASTOISE
+PrinplupEvosAttacks:
+	db EVOLVE_LEVEL, 36, EMPOLEON
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
@@ -148,7 +148,7 @@ WartortleEvosAttacks:
 	db 53, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-BlastoiseEvosAttacks:
+EmpoleonEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
@@ -166,21 +166,21 @@ BlastoiseEvosAttacks:
 	db 68, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-CaterpieEvosAttacks:
-	db EVOLVE_LEVEL, 7, METAPOD
+StarlyEvosAttacks:
+	db EVOLVE_LEVEL, 7, STARAVIA
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, STRING_SHOT
 	db 0 ; no more level-up moves
 
-MetapodEvosAttacks:
-	db EVOLVE_LEVEL, 10, BUTTERFREE
+StaraviaEvosAttacks:
+	db EVOLVE_LEVEL, 10, STARAPTOR
 	db 0 ; no more evolutions
 	db 1, HARDEN
 	db 7, HARDEN
 	db 0 ; no more level-up moves
 
-ButterfreeEvosAttacks:
+StaraptorEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, CONFUSION
 	db 10, CONFUSION

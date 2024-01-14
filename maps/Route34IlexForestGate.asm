@@ -69,7 +69,7 @@ Route34IlexForestGateTeacherScript:
 Route34IlexForestGateButterfreeScript:
 	opentext
 	writetext Route34IlexForestGateButterfreeText
-	cry BUTTERFREE
+	cry STARAPTOR
 	waitbutton
 	closetext
 	end
@@ -117,7 +117,7 @@ Route34IlexForestGateTeacher_ForestIsRestless:
 	done
 
 Route34IlexForestGateButterfreeText:
-	text "BUTTERFREE: Freeh!"
+	text "STARAPTOR: Freeh!"
 	done
 
 Route34IlexForestGateLassText:

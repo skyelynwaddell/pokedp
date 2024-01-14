@@ -1526,6 +1526,7 @@ _MayRegisterItemText::
 	done
 
 _OakText1::
+	text_end
 	text "Hello! Sorry to"
 	line "keep you waiting!"
 
@@ -1539,6 +1540,7 @@ _OakText1::
 	prompt
 
 _OakText2::
+	text_end
 	text "This world is in-"
 	line "habited by crea-"
 	cont "tures that we call"
@@ -1552,6 +1554,7 @@ _OakText3::
 	text_end ; unreferenced
 
 _OakText4::
+	text_end
 	text "People and #MON"
 	line "live together by"
 
@@ -1564,6 +1567,7 @@ _OakText4::
 	prompt
 
 _OakText5::
+	text_end
 	text "But we don't know"
 	line "everything about"
 	cont "#MON yet."

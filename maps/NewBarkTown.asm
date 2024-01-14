@@ -23,6 +23,7 @@ NewBarkTownFlypointCallback:
 	endcallback
 
 NewBarkTown_TeacherStopsYouScene1:
+	end
 	playmusic MUSIC_MOM
 	turnobject NEWBARKTOWN_TEACHER, LEFT
 	opentext
@@ -46,6 +47,7 @@ NewBarkTown_TeacherStopsYouScene1:
 	end
 
 NewBarkTown_TeacherStopsYouScene2:
+	end
 	playmusic MUSIC_MOM
 	turnobject NEWBARKTOWN_TEACHER, LEFT
 	opentext

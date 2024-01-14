@@ -3,17 +3,17 @@
 EvosAttacksPointers::
 	table_width 2, EvosAttacksPointers
 	dw TurtwigEvosAttacks
-	dw IvysaurEvosAttacks
-	dw VenusaurEvosAttacks
+	dw GrotleEvosAttacks
+	dw TorterraEvosAttacks
 	dw ChimcharEvosAttacks
-	dw CharmeleonEvosAttacks
-	dw CharizardEvosAttacks
+	dw MonfernoEvosAttacks
+	dw InfernapeEvosAttacks
 	dw PiplupEvosAttacks
-	dw WartortleEvosAttacks
-	dw BlastoiseEvosAttacks
-	dw CaterpieEvosAttacks
-	dw MetapodEvosAttacks
-	dw ButterfreeEvosAttacks
+	dw PrinplupEvosAttacks
+	dw EmpoleonEvosAttacks
+	dw StarlyEvosAttacks
+	dw StaraviaEvosAttacks
+	dw StaraptorEvosAttacks
 	dw WeedleEvosAttacks
 	dw KakunaEvosAttacks
 	dw BeedrillEvosAttacks

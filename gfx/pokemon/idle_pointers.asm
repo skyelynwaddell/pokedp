@@ -1,17 +1,17 @@
 AnimationIdlePointers:
 	table_width 2, AnimationIdlePointers
 	dw TurtwigAnimationIdle
-	dw IvysaurAnimationIdle
-	dw VenusaurAnimationIdle
+	dw GrotleAnimationIdle
+	dw TorterraAnimationIdle
 	dw ChimcharAnimationIdle
-	dw CharmeleonAnimationIdle
-	dw CharizardAnimationIdle
+	dw MonfernoAnimationIdle
+	dw InfernapeAnimationIdle
 	dw PiplupAnimationIdle
-	dw WartortleAnimationIdle
-	dw BlastoiseAnimationIdle
-	dw CaterpieAnimationIdle
-	dw MetapodAnimationIdle
-	dw ButterfreeAnimationIdle
+	dw PrinplupAnimationIdle
+	dw EmpoleonAnimationIdle
+	dw StarlyAnimationIdle
+	dw StaraviaAnimationIdle
+	dw StaraptorAnimationIdle
 	dw WeedleAnimationIdle
 	dw KakunaAnimationIdle
 	dw BeedrillAnimationIdle

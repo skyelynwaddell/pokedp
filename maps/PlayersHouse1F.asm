@@ -33,7 +33,16 @@ MeetMomRightScript:
 .OnRight:
 	applymovement PLAYERSHOUSE1F_MOM1, MomWalksToPlayerMovement
 MeetMomScript:
+	;test script to view a pokemon
+	refreshscreen
+	pokepic EMPOLEON
+	waitbutton
+	closepokepic
 	opentext
+	givepoke EMPOLEON, 5, BERRY
+	closetext
+	sjump .Finish
+
 	writetext ElmsLookingForYouText
 	promptbutton
 	getstring STRING_BUFFER_4, PokegearName

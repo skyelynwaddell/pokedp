@@ -5,28 +5,28 @@ PokemonPicPointers::
 	table_width 3 * 2, PokemonPicPointers
 	dba_pic TurtwigFrontpic
 	dba_pic TurtwigBackpic
-	dba_pic IvysaurFrontpic
-	dba_pic IvysaurBackpic
-	dba_pic VenusaurFrontpic
-	dba_pic VenusaurBackpic
+	dba_pic GrotleFrontpic
+	dba_pic GrotleBackpic
+	dba_pic TorterraFrontpic
+	dba_pic TorterraBackpic
 	dba_pic ChimcharFrontpic
 	dba_pic ChimcharBackpic
-	dba_pic CharmeleonFrontpic
-	dba_pic CharmeleonBackpic
-	dba_pic CharizardFrontpic
-	dba_pic CharizardBackpic
+	dba_pic MonfernoFrontpic
+	dba_pic MonfernoBackpic
+	dba_pic InfernapeFrontpic
+	dba_pic InfernapeBackpic
 	dba_pic PiplupFrontpic
 	dba_pic PiplupBackpic
-	dba_pic WartortleFrontpic
-	dba_pic WartortleBackpic
-	dba_pic BlastoiseFrontpic
-	dba_pic BlastoiseBackpic
-	dba_pic CaterpieFrontpic
-	dba_pic CaterpieBackpic
-	dba_pic MetapodFrontpic
-	dba_pic MetapodBackpic
-	dba_pic ButterfreeFrontpic
-	dba_pic ButterfreeBackpic
+	dba_pic PrinplupFrontpic
+	dba_pic PrinplupBackpic
+	dba_pic EmpoleonFrontpic
+	dba_pic EmpoleonBackpic
+	dba_pic StarlyFrontpic
+	dba_pic StarlyBackpic
+	dba_pic StaraviaFrontpic
+	dba_pic StaraviaBackpic
+	dba_pic StaraptorFrontpic
+	dba_pic StaraptorBackpic
 	dba_pic WeedleFrontpic
 	dba_pic WeedleBackpic
 	dba_pic KakunaFrontpic

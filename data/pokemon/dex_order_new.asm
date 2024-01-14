@@ -3,8 +3,17 @@
 NewPokedexOrder:
 	table_width 1, NewPokedexOrder
 	db TURTWIG
+	db GROTLE
+	db TORTERRA
 	db CHIMCHAR
+	db MONFERNO
+	db INFERNAPE
 	db PIPLUP
+	db PRINPLUP
+	db EMPOLEON
+	db STARLY
+	db STARAVIA
+	db STARAPTOR
 	db CHIKORITA
 	db BAYLEEF
 	db MEGANIUM
@@ -28,9 +37,6 @@ NewPokedexOrder:
 	db PICHU
 	db PIKACHU
 	db RAICHU
-	db CATERPIE
-	db METAPOD
-	db BUTTERFREE
 	db WEEDLE
 	db KAKUNA
 	db BEEDRILL
@@ -230,12 +236,6 @@ NewPokedexOrder:
 	db KABUTOPS
 	db AERODACTYL
 	db SNORLAX
-	db IVYSAUR
-	db VENUSAUR
-	db CHARMELEON
-	db CHARIZARD
-	db WARTORTLE
-	db BLASTOISE
 	db ARTICUNO
 	db ZAPDOS
 	db MOLTRES

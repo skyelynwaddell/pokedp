@@ -201,18 +201,18 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_2
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 3, CATERPIE
+	db 3, STARLY
 	db 3, LEDYBA
 	db 5, PIDGEY
-	db 7, BUTTERFREE
+	db 7, STARAPTOR
 	db 7, LEDIAN
 	db 4, PIKACHU
 	db 4, PIKACHU
 	; day
-	db 3, CATERPIE
+	db 3, STARLY
 	db 3, PIDGEY
 	db 5, PIDGEY
-	db 7, BUTTERFREE
+	db 7, STARAPTOR
 	db 7, PIDGEOTTO
 	db 4, PIKACHU
 	db 4, PIKACHU
@@ -705,21 +705,21 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_24
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 8, CATERPIE
-	db 10, CATERPIE
-	db 12, METAPOD
+	db 8, STARLY
+	db 10, STARLY
+	db 12, STARAVIA
 	db 12, ABRA
 	db 10, BELLSPROUT
-	db 14, BUTTERFREE
-	db 14, BUTTERFREE
+	db 14, STARAPTOR
+	db 14, STARAPTOR
 	; day
-	db 8, CATERPIE
+	db 8, STARLY
 	db 12, SUNKERN
-	db 10, CATERPIE
+	db 10, STARLY
 	db 12, ABRA
 	db 10, BELLSPROUT
-	db 14, BUTTERFREE
-	db 14, BUTTERFREE
+	db 14, STARAPTOR
+	db 14, STARAPTOR
 	; nite
 	db 10, VENONAT
 	db 10, ODDISH
@@ -733,21 +733,21 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_25
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 10, CATERPIE
+	db 10, STARLY
 	db 10, PIDGEY
 	db 12, PIDGEOTTO
-	db 12, METAPOD
+	db 12, STARAVIA
 	db 10, BELLSPROUT
-	db 14, BUTTERFREE
-	db 14, BUTTERFREE
+	db 14, STARAPTOR
+	db 14, STARAPTOR
 	; day
-	db 10, CATERPIE
+	db 10, STARLY
 	db 10, PIDGEY
 	db 12, PIDGEOTTO
-	db 12, METAPOD
+	db 12, STARAVIA
 	db 10, BELLSPROUT
-	db 14, BUTTERFREE
-	db 14, BUTTERFREE
+	db 14, STARAPTOR
+	db 14, STARAPTOR
 	; nite
 	db 10, ODDISH
 	db 10, HOOTHOOT
