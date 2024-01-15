@@ -2150,6 +2150,8 @@ UpdateBattleStateAndExperienceAfterEnemyFaint:
 	ld a, [wBattleResult]
 	and BATTLERESULT_BITMASK
 	ld [wBattleResult], a ; WIN
+	;fall through
+ApplyExperienceAfterEnemyCaught:
 	call IsAnyMonHoldingExpShare
 	jr z, .skip_exp
 	ld hl, wEnemyMonBaseStats
