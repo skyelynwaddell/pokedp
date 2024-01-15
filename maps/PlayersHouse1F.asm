@@ -41,6 +41,7 @@ MeetMomScript:
 	opentext
 	givepoke EMPOLEON, 5, BERRY
 	closetext
+	giveitem POCKET_PC
 	sjump .Finish
 
 	writetext ElmsLookingForYouText

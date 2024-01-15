@@ -38,7 +38,7 @@ ItemEffects:
 	dw EvoStoneEffect      ; FIRE_STONE
 	dw EvoStoneEffect      ; THUNDERSTONE
 	dw EvoStoneEffect      ; WATER_STONE
-	dw NoEffect            ; ITEM_19
+	dw PocketPcEffect      ; POCKET_PC
 	dw VitaminEffect       ; HP_UP
 	dw VitaminEffect       ; PROTEIN
 	dw VitaminEffect       ; IRON
@@ -1123,6 +1123,10 @@ TownMapEffect:
 
 BicycleEffect:
 	farcall BikeFunction
+	ret
+
+PocketPcEffect:
+	farcall PocketPCFunction
 	ret
 
 EvoStoneEffect:
