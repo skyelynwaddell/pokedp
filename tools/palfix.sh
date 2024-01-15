@@ -24,3 +24,11 @@ python3 tools/palfix.py gfx/pokemon/staravia/front.png
 python3 tools/palfix.py gfx/pokemon/staravia/back.png
 python3 tools/palfix.py gfx/pokemon/staraptor/front.png
 python3 tools/palfix.py gfx/pokemon/staraptor/back.png
+python3 tools/palfix.py gfx/pokemon/bidoof/front.png
+python3 tools/palfix.py gfx/pokemon/bidoof/back.png
+python3 tools/palfix.py gfx/pokemon/bibarel/front.png
+python3 tools/palfix.py gfx/pokemon/bibarel/back.png
+python3 tools/palfix.py gfx/pokemon/kricketot/front.png
+python3 tools/palfix.py gfx/pokemon/kricketot/back.png
+python3 tools/palfix.py gfx/pokemon/kricketune/front.png
+python3 tools/palfix.py gfx/pokemon/kricketune/back.png

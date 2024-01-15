@@ -14,6 +14,10 @@ AlphabeticalPokedexOrder:
 	db STARLY
 	db STARAVIA
 	db STARAPTOR
+	db BIDOOF
+	db BIBAREL
+	db KRICKETOT
+	db KRICKETUNE
 	db ABRA
 	db AERODACTYL
 	db AIPOM
@@ -25,7 +29,6 @@ AlphabeticalPokedexOrder:
 	db ARTICUNO
 	db AZUMARILL
 	db BAYLEEF
-	db BEEDRILL
 	db BELLOSSOM
 	db BELLSPROUT
 	db BLISSEY
@@ -106,7 +109,6 @@ AlphabeticalPokedexOrder:
 	db KABUTO
 	db KABUTOPS
 	db KADABRA
-	db KAKUNA
 	db KANGASKHAN
 	db KINGDRA
 	db KINGLER
@@ -164,7 +166,6 @@ AlphabeticalPokedexOrder:
 	db PICHU
 	db PIDGEOT
 	db PIDGEOTTO
-	db PIDGEY
 	db PIKACHU
 	db PILOSWINE
 	db PINECO
@@ -243,7 +244,6 @@ AlphabeticalPokedexOrder:
 	db VILEPLUME
 	db VOLTORB
 	db VULPIX
-	db WEEDLE
 	db WEEPINBELL
 	db WEEZING
 	db WIGGLYTUFF

@@ -12,10 +12,10 @@ AnimationPointers:
 	dw StarlyAnimation
 	dw StaraviaAnimation
 	dw StaraptorAnimation
-	dw WeedleAnimation
-	dw KakunaAnimation
-	dw BeedrillAnimation
-	dw PidgeyAnimation
+	dw BidoofAnimation
+	dw BibarelAnimation
+	dw KricketotAnimation
+	dw KricketuneAnimation
 	dw PidgeottoAnimation
 	dw PidgeotAnimation
 	dw RattataAnimation

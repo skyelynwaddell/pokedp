@@ -173,21 +173,21 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_1
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 2, PIDGEY
+	db 2, STARLY
 	db 2, RATTATA
-	db 3, SENTRET
-	db 3, PIDGEY
+	db 3, BIDOOF
+	db 3, STARLY
 	db 6, FURRET
-	db 4, PIDGEY
-	db 4, PIDGEY
+	db 4, STARLY
+	db 4, STARLY
 	; day
-	db 2, PIDGEY
+	db 2, STARLY
 	db 2, RATTATA
-	db 3, SENTRET
-	db 3, PIDGEY
+	db 3, BIDOOF
+	db 3, STARLY
 	db 6, FURRET
-	db 4, PIDGEY
-	db 4, PIDGEY
+	db 4, STARLY
+	db 4, STARLY
 	; nite
 	db 2, HOOTHOOT
 	db 2, RATTATA
@@ -203,15 +203,15 @@ KantoGrassWildMons:
 	; morn
 	db 3, STARLY
 	db 3, LEDYBA
-	db 5, PIDGEY
+	db 5, STARLY
 	db 7, STARAPTOR
 	db 7, LEDIAN
 	db 4, PIKACHU
 	db 4, PIKACHU
 	; day
 	db 3, STARLY
-	db 3, PIDGEY
-	db 5, PIDGEY
+	db 3, STARLY
+	db 5, STARLY
 	db 7, STARAPTOR
 	db 7, PIDGEOTTO
 	db 4, PIKACHU
@@ -285,7 +285,7 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_5
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 13, PIDGEY
+	db 13, STARLY
 	db 13, SNUBBULL
 	db 15, PIDGEOTTO
 	db 12, ABRA
@@ -293,7 +293,7 @@ KantoGrassWildMons:
 	db 14, ABRA
 	db 14, ABRA
 	; day
-	db 13, PIDGEY
+	db 13, STARLY
 	db 13, SNUBBULL
 	db 15, PIDGEOTTO
 	db 12, ABRA
@@ -734,7 +734,7 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 10, STARLY
-	db 10, PIDGEY
+	db 10, STARLY
 	db 12, PIDGEOTTO
 	db 12, STARAVIA
 	db 10, BELLSPROUT
@@ -742,7 +742,7 @@ KantoGrassWildMons:
 	db 14, STARAPTOR
 	; day
 	db 10, STARLY
-	db 10, PIDGEY
+	db 10, STARLY
 	db 12, PIDGEOTTO
 	db 12, STARAVIA
 	db 10, BELLSPROUT

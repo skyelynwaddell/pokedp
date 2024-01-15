@@ -12,10 +12,10 @@ AnimationIdlePointers:
 	dw StarlyAnimationIdle
 	dw StaraviaAnimationIdle
 	dw StaraptorAnimationIdle
-	dw WeedleAnimationIdle
-	dw KakunaAnimationIdle
-	dw BeedrillAnimationIdle
-	dw PidgeyAnimationIdle
+	dw BidoofAnimationIdle
+	dw BibarelAnimationIdle
+	dw KricketotAnimationIdle
+	dw KricketuneAnimationIdle
 	dw PidgeottoAnimationIdle
 	dw PidgeotAnimationIdle
 	dw RattataAnimationIdle

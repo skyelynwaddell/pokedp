@@ -14,10 +14,10 @@ EvosAttacksPointers::
 	dw StarlyEvosAttacks
 	dw StaraviaEvosAttacks
 	dw StaraptorEvosAttacks
-	dw WeedleEvosAttacks
-	dw KakunaEvosAttacks
-	dw BeedrillEvosAttacks
-	dw PidgeyEvosAttacks
+	dw BidoofEvosAttacks
+	dw BibarelEvosAttacks
+	dw KricketotEvosAttacks
+	dw KricketuneEvosAttacks
 	dw PidgeottoEvosAttacks
 	dw PidgeotEvosAttacks
 	dw RattataEvosAttacks

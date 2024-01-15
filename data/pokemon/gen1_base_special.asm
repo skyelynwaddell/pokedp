@@ -14,10 +14,10 @@ KantoMonSpecials:
 	db  20 ; STARLY
 	db  25 ; STARAVIA
 	db  80 ; STARAPTOR
-	db  20 ; WEEDLE
-	db  25 ; KAKUNA
-	db  45 ; BEEDRILL
-	db  35 ; PIDGEY
+	db  20 ; BIDOOF
+	db  25 ; BIBAREL
+	db  45 ; KRICKETOT
+	db  35 ; KRICKETUNE
 	db  50 ; PIDGEOTTO
 	db  70 ; PIDGEOT
 	db  25 ; RATTATA

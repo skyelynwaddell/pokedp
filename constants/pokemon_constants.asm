@@ -32,10 +32,10 @@
 	const STARLY     ; 0a caterpie
 	const STARAVIA   ; 0b metapod
 	const STARAPTOR  ; 0c butterfree
-	const WEEDLE     ; 0d weedle
-	const KAKUNA     ; 0e kakuna
-	const BEEDRILL   ; 0f beedrill
-	const PIDGEY     ; 10 pidgey
+	const BIDOOF     ; 0d weedle
+	const BIBAREL    ; 0e kakuna
+	const KRICKETOT  ; 0f beedrill
+	const KRICKETUNE ; 10 pidgey
 	const PIDGEOTTO  ; 11 pidgeotto
 	const PIDGEOT    ; 12 pidgeot
 	const RATTATA    ; 13 rattata

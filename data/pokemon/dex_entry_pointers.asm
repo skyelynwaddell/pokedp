@@ -13,10 +13,10 @@ PokedexDataPointerTable:
 	dw StarlyPokedexEntry
 	dw StaraviaPokedexEntry
 	dw StaraptorPokedexEntry
-	dw WeedlePokedexEntry
-	dw KakunaPokedexEntry
-	dw BeedrillPokedexEntry
-	dw PidgeyPokedexEntry
+	dw BidoofPokedexEntry
+	dw BibarelPokedexEntry
+	dw KricketotPokedexEntry
+	dw KricketunePokedexEntry
 	dw PidgeottoPokedexEntry
 	dw PidgeotPokedexEntry
 	dw RattataPokedexEntry

@@ -1,5 +1,7 @@
 Pokered_MonIndices:
 	table_width 1, Pokered_MonIndices
+	db KRICKETOT
+	db KRICKETUNE
 	db RHYDON
 	db KANGASKHAN
 	db NIDORAN_M
@@ -35,7 +37,6 @@ Pokered_MonIndices:
 	db GROWLITHE
 	db ONIX
 	db FEAROW
-	db PIDGEY
 	db SLOWPOKE
 	db KADABRA
 	db GRAVELER
@@ -111,9 +112,8 @@ Pokered_MonIndices:
 	db PARAS
 	db POLIWHIRL
 	db POLIWRATH
-	db WEEDLE
-	db KAKUNA
-	db BEEDRILL
+	db BIDOOF
+	db BIBAREL
 	db HOUNDOOM ; MISSINGNO.
 	db DODRIO
 	db PRIMEAPE

@@ -27,14 +27,14 @@ PokemonPicPointers::
 	dba_pic StaraviaBackpic
 	dba_pic StaraptorFrontpic
 	dba_pic StaraptorBackpic
-	dba_pic WeedleFrontpic
-	dba_pic WeedleBackpic
-	dba_pic KakunaFrontpic
-	dba_pic KakunaBackpic
-	dba_pic BeedrillFrontpic
-	dba_pic BeedrillBackpic
-	dba_pic PidgeyFrontpic
-	dba_pic PidgeyBackpic
+	dba_pic BidoofFrontpic
+	dba_pic BidoofBackpic
+	dba_pic BibarelFrontpic
+	dba_pic BibarelBackpic
+	dba_pic KricketotFrontpic
+	dba_pic KricketotBackpic
+	dba_pic KricketuneFrontpic
+	dba_pic KricketuneBackpic
 	dba_pic PidgeottoFrontpic
 	dba_pic PidgeottoBackpic
 	dba_pic PidgeotFrontpic

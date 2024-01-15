@@ -12,10 +12,10 @@ BitmasksPointers:
 	dw StarlyBitmasks
 	dw StaraviaBitmasks
 	dw StaraptorBitmasks
-	dw WeedleBitmasks
-	dw KakunaBitmasks
-	dw BeedrillBitmasks
-	dw PidgeyBitmasks
+	dw BidoofBitmasks
+	dw BibarelBitmasks
+	dw KricketotBitmasks
+	dw KricketuneBitmasks
 	dw PidgeottoBitmasks
 	dw PidgeotBitmasks
 	dw RattataBitmasks

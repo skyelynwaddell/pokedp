@@ -12,10 +12,10 @@ FramesPointers:
 	dw StarlyFrames
 	dw StaraviaFrames
 	dw StaraptorFrames
-	dw WeedleFrames
-	dw KakunaFrames
-	dw BeedrillFrames
-	dw PidgeyFrames
+	dw BidoofFrames
+	dw BibarelFrames
+	dw KricketotFrames
+	dw KricketuneFrames
 	dw PidgeottoFrames
 	dw PidgeotFrames
 	dw RattataFrames

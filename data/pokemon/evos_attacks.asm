@@ -194,21 +194,21 @@ StaraptorEvosAttacks:
 	db 40, SAFEGUARD
 	db 0 ; no more level-up moves
 
-WeedleEvosAttacks:
-	db EVOLVE_LEVEL, 7, KAKUNA
+BidoofEvosAttacks:
+	db EVOLVE_LEVEL, 7, BIBAREL
 	db 0 ; no more evolutions
 	db 1, POISON_STING
 	db 1, STRING_SHOT
 	db 0 ; no more level-up moves
 
-KakunaEvosAttacks:
-	db EVOLVE_LEVEL, 10, BEEDRILL
+BibarelEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, HARDEN
 	db 7, HARDEN
 	db 0 ; no more level-up moves
 
-BeedrillEvosAttacks:
+KricketotEvosAttacks:
+	db EVOLVE_LEVEL, 18, KRICKETUNE
 	db 0 ; no more evolutions
 	db 1, FURY_ATTACK
 	db 10, FURY_ATTACK
@@ -220,8 +220,7 @@ BeedrillEvosAttacks:
 	db 40, AGILITY
 	db 0 ; no more level-up moves
 
-PidgeyEvosAttacks:
-	db EVOLVE_LEVEL, 18, PIDGEOTTO
+KricketuneEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 5, SAND_ATTACK

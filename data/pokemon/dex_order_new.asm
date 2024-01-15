@@ -14,6 +14,10 @@ NewPokedexOrder:
 	db STARLY
 	db STARAVIA
 	db STARAPTOR
+	db BIDOOF
+	db BIBAREL
+	db KRICKETOT
+	db KRICKETUNE
 	db CHIKORITA
 	db BAYLEEF
 	db MEGANIUM
@@ -23,7 +27,6 @@ NewPokedexOrder:
 	db TOTODILE
 	db CROCONAW
 	db FERALIGATR
-	db PIDGEY
 	db PIDGEOTTO
 	db PIDGEOT
 	db SPEAROW
@@ -37,9 +40,6 @@ NewPokedexOrder:
 	db PICHU
 	db PIKACHU
 	db RAICHU
-	db WEEDLE
-	db KAKUNA
-	db BEEDRILL
 	db LEDYBA
 	db LEDIAN
 	db SPINARAK

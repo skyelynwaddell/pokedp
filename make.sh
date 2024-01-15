@@ -4,4 +4,4 @@ bash tools/palfix.sh
 make clean
 make tidy
 make
-open pokecrystal.gbc mGBA.app
+open pokecrystal.gbc #mGBA.app
