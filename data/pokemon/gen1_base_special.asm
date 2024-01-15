@@ -18,9 +18,9 @@ KantoMonSpecials:
 	db  25 ; BIBAREL
 	db  45 ; KRICKETOT
 	db  35 ; KRICKETUNE
-	db  50 ; PIDGEOTTO
-	db  70 ; PIDGEOT
-	db  25 ; RATTATA
+	db  50 ; SHINX
+	db  70 ; LUXIO
+	db  25 ; LUXRAY
 	db  50 ; RATICATE
 	db  31 ; SPEAROW
 	db  61 ; FEAROW

@@ -35,12 +35,12 @@ PokemonPicPointers::
 	dba_pic KricketotBackpic
 	dba_pic KricketuneFrontpic
 	dba_pic KricketuneBackpic
-	dba_pic PidgeottoFrontpic
-	dba_pic PidgeottoBackpic
-	dba_pic PidgeotFrontpic
-	dba_pic PidgeotBackpic
-	dba_pic RattataFrontpic
-	dba_pic RattataBackpic
+	dba_pic ShinxFrontpic
+	dba_pic ShinxBackpic
+	dba_pic LuxioFrontpic
+	dba_pic LuxioBackpic
+	dba_pic LuxrayFrontpic
+	dba_pic LuxrayBackpic
 	dba_pic RaticateFrontpic
 	dba_pic RaticateBackpic
 	dba_pic SpearowFrontpic

@@ -18,6 +18,9 @@ NewPokedexOrder:
 	db BIBAREL
 	db KRICKETOT
 	db KRICKETUNE
+	db SHINX
+	db LUXIO
+	db LUXRAY
 	db CHIKORITA
 	db BAYLEEF
 	db MEGANIUM
@@ -27,13 +30,10 @@ NewPokedexOrder:
 	db TOTODILE
 	db CROCONAW
 	db FERALIGATR
-	db PIDGEOTTO
-	db PIDGEOT
 	db SPEAROW
 	db FEAROW
 	db HOOTHOOT
 	db NOCTOWL
-	db RATTATA
 	db RATICATE
 	db SENTRET
 	db FURRET

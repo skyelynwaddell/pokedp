@@ -16,9 +16,9 @@ BitmasksPointers:
 	dw BibarelBitmasks
 	dw KricketotBitmasks
 	dw KricketuneBitmasks
-	dw PidgeottoBitmasks
-	dw PidgeotBitmasks
-	dw RattataBitmasks
+	dw ShinxBitmasks
+	dw LuxioBitmasks
+	dw LuxrayBitmasks
 	dw RaticateBitmasks
 	dw SpearowBitmasks
 	dw FearowBitmasks

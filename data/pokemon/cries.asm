@@ -22,8 +22,8 @@ PokemonCries::
 	mon_cry CRY_BLASTOISE,   255,  129 ; BIBAREL
 	mon_cry CRY_BLASTOISE,    96,  256 ; KRICKETOT
 	mon_cry CRY_PIDGEY,      223,  132 ; KRICKETOT
-	mon_cry CRY_PIDGEOTTO,    40,  320 ; PIDGEOTTO
-	mon_cry CRY_PIDGEOTTO,    17,  383 ; PIDGEOT
+	mon_cry CRY_PIDGEOTTO,    40,  320 ; SHINX
+	mon_cry CRY_PIDGEOTTO,    17,  383 ; LUXIO
 	mon_cry CRY_RATTATA,       0,  256 ; RATTATA
 	mon_cry CRY_RATTATA,      32,  383 ; RATICATE
 	mon_cry CRY_SPEAROW,       0,  256 ; SPEAROW

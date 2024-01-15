@@ -18,9 +18,9 @@ MonMenuIcons:
 	db ICON_CATERPILLAR ; BIBAREL
 	db ICON_BUG         ; KRICKETOT
 	db ICON_BIRD        ; KRICKETUNE
-	db ICON_BIRD        ; PIDGEOTTO
-	db ICON_BIRD        ; PIDGEOT
-	db ICON_FOX         ; RATTATA
+	db ICON_BIRD        ; SHINX
+	db ICON_BIRD        ; LUXIO
+	db ICON_FOX         ; LUXRAY
 	db ICON_FOX         ; RATICATE
 	db ICON_BIRD        ; SPEAROW
 	db ICON_BIRD        ; FEAROW

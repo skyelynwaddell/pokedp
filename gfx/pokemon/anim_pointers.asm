@@ -16,9 +16,9 @@ AnimationPointers:
 	dw BibarelAnimation
 	dw KricketotAnimation
 	dw KricketuneAnimation
-	dw PidgeottoAnimation
-	dw PidgeotAnimation
-	dw RattataAnimation
+	dw ShinxAnimation
+	dw LuxioAnimation
+	dw LuxrayAnimation
 	dw RaticateAnimation
 	dw SpearowAnimation
 	dw FearowAnimation

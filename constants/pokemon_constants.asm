@@ -36,9 +36,9 @@
 	const BIBAREL    ; 0e kakuna
 	const KRICKETOT  ; 0f beedrill
 	const KRICKETUNE ; 10 pidgey
-	const PIDGEOTTO  ; 11 pidgeotto
-	const PIDGEOT    ; 12 pidgeot
-	const RATTATA    ; 13 rattata
+	const SHINX      ; 11 pidgeotto
+	const LUXIO      ; 12 pidgeot
+	const LUXRAY     ; 13 rattata
 	const RATICATE   ; 14 raticate
 	const SPEAROW    ; 15 spearow
 	const FEAROW     ; 16 fearow

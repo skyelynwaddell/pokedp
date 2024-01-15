@@ -16,9 +16,9 @@ AnimationIdlePointers:
 	dw BibarelAnimationIdle
 	dw KricketotAnimationIdle
 	dw KricketuneAnimationIdle
-	dw PidgeottoAnimationIdle
-	dw PidgeotAnimationIdle
-	dw RattataAnimationIdle
+	dw ShinxAnimationIdle
+	dw LuxioAnimationIdle
+	dw LuxrayAnimationIdle
 	dw RaticateAnimationIdle
 	dw SpearowAnimationIdle
 	dw FearowAnimationIdle

@@ -1,15 +1,15 @@
 EggMovePointers::
 	table_width 2, EggMovePointers
-	dw TurtwigEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
-	dw ChimcharEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
-	dw PiplupEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
+	dw TurtwigEggMoves		;turtwig
+	dw NoEggMoves			;grotle
+	dw NoEggMoves			;torterra
+	dw ChimcharEggMoves		;chimchar
+	dw NoEggMoves			;monferno
+	dw NoEggMoves			;infernape
+	dw PiplupEggMoves		;piplup
+	dw NoEggMoves			;prinplup
+	dw NoEggMoves			;empoleon
+	dw NoEggMoves			
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
@@ -18,7 +18,7 @@ EggMovePointers::
 	dw StarlyEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw RattataEggMoves
+	dw NoEggMoves
 	dw NoEggMoves
 	dw SpearowEggMoves
 	dw NoEggMoves

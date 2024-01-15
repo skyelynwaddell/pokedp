@@ -48,15 +48,6 @@ StarlyEggMoves:
 	db FORESIGHT
 	db -1 ; end
 
-RattataEggMoves:
-	db SCREECH
-	db FLAME_WHEEL
-	db FURY_SWIPES
-	db BITE
-	db COUNTER
-	db REVERSAL
-	db -1 ; end
-
 SpearowEggMoves:
 	db FAINT_ATTACK
 	db FALSE_SWIPE

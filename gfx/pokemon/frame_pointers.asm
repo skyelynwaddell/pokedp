@@ -16,9 +16,9 @@ FramesPointers:
 	dw BibarelFrames
 	dw KricketotFrames
 	dw KricketuneFrames
-	dw PidgeottoFrames
-	dw PidgeotFrames
-	dw RattataFrames
+	dw ShinxFrames
+	dw LuxioFrames
+	dw LuxrayFrames
 	dw RaticateFrames
 	dw SpearowFrames
 	dw FearowFrames

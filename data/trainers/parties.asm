@@ -14,7 +14,7 @@ FalknerGroup:
 	; FALKNER (1)
 	db "FALKNER@", TRAINERTYPE_MOVES
 	db  7, KRICKETOT,     TACKLE, MUD_SLAP, NO_MOVE, NO_MOVE
-	db  9, PIDGEOTTO,  TACKLE, MUD_SLAP, GUST, NO_MOVE
+	db  9, SHINX,  TACKLE, MUD_SLAP, GUST, NO_MOVE
 	db -1 ; end
 
 WhitneyGroup:
@@ -338,18 +338,18 @@ ErikaGroup:
 YoungsterGroup:
 	; YOUNGSTER (1)
 	db "JOEY@", TRAINERTYPE_NORMAL
-	db  4, RATTATA
+	db  4, LUXRAY
 	db -1 ; end
 
 	; YOUNGSTER (2)
 	db "MIKEY@", TRAINERTYPE_NORMAL
 	db  2, KRICKETOT
-	db  4, RATTATA
+	db  4, LUXRAY
 	db -1 ; end
 
 	; YOUNGSTER (3)
 	db "ALBERT@", TRAINERTYPE_NORMAL
-	db  6, RATTATA
+	db  6, LUXRAY
 	db  8, ZUBAT
 	db -1 ; end
 
@@ -360,7 +360,7 @@ YoungsterGroup:
 
 	; YOUNGSTER (5)
 	db "SAMUEL@", TRAINERTYPE_NORMAL
-	db  7, RATTATA
+	db  7, LUXRAY
 	db 10, SANDSHREW
 	db  8, SPEAROW
 	db  8, SPEAROW
@@ -374,7 +374,7 @@ YoungsterGroup:
 
 	; YOUNGSTER (7)
 	db "JOEY@", TRAINERTYPE_NORMAL
-	db 15, RATTATA
+	db 15, LUXRAY
 	db -1 ; end
 
 	; YOUNGSTER (8)
@@ -585,7 +585,7 @@ BirdKeeperGroup:
 	; BIRD_KEEPER (3)
 	db "BRYAN@", TRAINERTYPE_NORMAL
 	db 12, KRICKETOT
-	db 14, PIDGEOTTO
+	db 14, SHINX
 	db -1 ; end
 
 	; BIRD_KEEPER (4)
@@ -613,14 +613,14 @@ BirdKeeperGroup:
 
 	; BIRD_KEEPER (7)
 	db "VANCE@", TRAINERTYPE_NORMAL
-	db 25, PIDGEOTTO
-	db 25, PIDGEOTTO
+	db 25, SHINX
+	db 25, SHINX
 	db -1 ; end
 
 	; BIRD_KEEPER (8)
 	db "HANK@", TRAINERTYPE_NORMAL
 	db 12, KRICKETOT
-	db 34, PIDGEOT
+	db 34, LUXIO
 	db -1 ; end
 
 	; BIRD_KEEPER (9)
@@ -665,7 +665,7 @@ BirdKeeperGroup:
 
 	; BIRD_KEEPER (16)
 	db "BRET@", TRAINERTYPE_NORMAL
-	db 32, PIDGEOTTO
+	db 32, SHINX
 	db 32, FEAROW
 	db -1 ; end
 
@@ -676,14 +676,14 @@ BirdKeeperGroup:
 
 	; BIRD_KEEPER (18)
 	db "VANCE@", TRAINERTYPE_NORMAL
-	db 32, PIDGEOTTO
-	db 32, PIDGEOTTO
+	db 32, SHINX
+	db 32, SHINX
 	db -1 ; end
 
 	; BIRD_KEEPER (19)
 	db "VANCE@", TRAINERTYPE_MOVES
-	db 38, PIDGEOT,    TOXIC, QUICK_ATTACK, WHIRLWIND, FLY
-	db 38, PIDGEOT,    SWIFT, DETECT, STEEL_WING, FLY
+	db 38, LUXIO,    TOXIC, QUICK_ATTACK, WHIRLWIND, FLY
+	db 38, LUXIO,    SWIFT, DETECT, STEEL_WING, FLY
 	db -1 ; end
 
 LassGroup:
@@ -727,7 +727,7 @@ LassGroup:
 	; LASS (7)
 	db "LAURA@", TRAINERTYPE_NORMAL
 	db 28, GLOOM
-	db 31, PIDGEOTTO
+	db 31, SHINX
 	db 31, BELLOSSOM
 	db -1 ; end
 
@@ -850,7 +850,7 @@ CooltrainerMGroup:
 
 	; COOLTRAINERM (8)
 	db "RYAN@", TRAINERTYPE_MOVES
-	db 25, PIDGEOT,    SAND_ATTACK, QUICK_ATTACK, WHIRLWIND, WING_ATTACK
+	db 25, LUXIO,    SAND_ATTACK, QUICK_ATTACK, WHIRLWIND, WING_ATTACK
 	db 27, ELECTABUZZ, THUNDERPUNCH, LIGHT_SCREEN, SWIFT, SCREECH
 	db -1 ; end
 
@@ -1246,7 +1246,7 @@ GruntMGroup:
 
 	; GRUNTM (2)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db  7, RATTATA
+	db  7, LUXRAY
 	db  9, ZUBAT
 	db  9, ZUBAT
 	db -1 ; end
@@ -1266,11 +1266,11 @@ GruntMGroup:
 
 	; GRUNTM (5)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 21, RATTATA
-	db 21, RATTATA
-	db 23, RATTATA
-	db 23, RATTATA
-	db 23, RATTATA
+	db 21, LUXRAY
+	db 21, LUXRAY
+	db 23, LUXRAY
+	db 23, LUXRAY
+	db 23, LUXRAY
 	db -1 ; end
 
 	; GRUNTM (6)
@@ -1284,7 +1284,7 @@ GruntMGroup:
 	db 23, KOFFING
 	db 23, GRIMER
 	db 23, ZUBAT
-	db 23, RATTATA
+	db 23, LUXRAY
 	db -1 ; end
 
 	; GRUNTM (8)
@@ -1309,7 +1309,7 @@ GruntMGroup:
 	db "GRUNT@", TRAINERTYPE_NORMAL
 	db 23, MUK
 	db 23, KOFFING
-	db 25, RATTATA
+	db 25, LUXRAY
 	db -1 ; end
 
 	; GRUNTM (12)
@@ -1319,7 +1319,7 @@ GruntMGroup:
 
 	; GRUNTM (13)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 27, RATTATA
+	db 27, LUXRAY
 	db -1 ; end
 
 	; GRUNTM (14)
@@ -1336,10 +1336,10 @@ GruntMGroup:
 
 	; GRUNTM (16)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 16, RATTATA
-	db 16, RATTATA
-	db 16, RATTATA
-	db 16, RATTATA
+	db 16, LUXRAY
+	db 16, LUXRAY
+	db 16, LUXRAY
+	db 16, LUXRAY
 	db -1 ; end
 
 	; GRUNTM (17)
@@ -1349,9 +1349,9 @@ GruntMGroup:
 
 	; GRUNTM (18)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 17, RATTATA
+	db 17, LUXRAY
 	db 17, ZUBAT
-	db 17, RATTATA
+	db 17, LUXRAY
 	db -1 ; end
 
 	; GRUNTM (19)
@@ -1370,7 +1370,7 @@ GruntMGroup:
 	db "GRUNT@", TRAINERTYPE_NORMAL
 	db 16, ZUBAT
 	db 17, GRIMER
-	db 18, RATTATA
+	db 18, LUXRAY
 	db -1 ; end
 
 	; GRUNTM (22)
@@ -1397,8 +1397,8 @@ GruntMGroup:
 
 	; GRUNTM (26)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 15, RATTATA
-	db 15, RATTATA
+	db 15, LUXRAY
+	db 15, LUXRAY
 	db -1 ; end
 
 	; GRUNTM (27)
@@ -1413,8 +1413,8 @@ GruntMGroup:
 
 	; GRUNTM (29)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db  9, RATTATA
-	db  9, RATTATA
+	db  9, LUXRAY
+	db  9, LUXRAY
 	db -1 ; end
 
 	; GRUNTM (30)
@@ -3436,7 +3436,7 @@ RedGroup:
 BlueGroup:
 	; BLUE (1)
 	db "BLUE@", TRAINERTYPE_MOVES
-	db 56, PIDGEOT,    QUICK_ATTACK, WHIRLWIND, WING_ATTACK, MIRROR_MOVE
+	db 56, LUXIO,    QUICK_ATTACK, WHIRLWIND, WING_ATTACK, MIRROR_MOVE
 	db 54, ALAKAZAM,   DISABLE, RECOVER, PSYCHIC_M, REFLECT
 	db 56, RHYDON,     FURY_ATTACK, SANDSTORM, ROCK_SLIDE, EARTHQUAKE
 	db 58, GYARADOS,   TWISTER, HYDRO_PUMP, RAIN_DANCE, HYPER_BEAM

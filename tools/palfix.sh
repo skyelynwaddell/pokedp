@@ -32,3 +32,9 @@ python3 tools/palfix.py gfx/pokemon/kricketot/front.png
 python3 tools/palfix.py gfx/pokemon/kricketot/back.png
 python3 tools/palfix.py gfx/pokemon/kricketune/front.png
 python3 tools/palfix.py gfx/pokemon/kricketune/back.png
+python3 tools/palfix.py gfx/pokemon/shinx/front.png
+python3 tools/palfix.py gfx/pokemon/shinx/back.png
+python3 tools/palfix.py gfx/pokemon/luxio/front.png
+python3 tools/palfix.py gfx/pokemon/luxio/back.png
+python3 tools/palfix.py gfx/pokemon/luxray/front.png
+python3 tools/palfix.py gfx/pokemon/luxray/back.png

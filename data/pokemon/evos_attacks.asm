@@ -232,8 +232,8 @@ KricketuneEvosAttacks:
 	db 47, MIRROR_MOVE
 	db 0 ; no more level-up moves
 
-PidgeottoEvosAttacks:
-	db EVOLVE_LEVEL, 36, PIDGEOT
+ShinxEvosAttacks:
+	db EVOLVE_LEVEL, 36, LUXIO
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, SAND_ATTACK
@@ -247,7 +247,8 @@ PidgeottoEvosAttacks:
 	db 55, MIRROR_MOVE
 	db 0 ; no more level-up moves
 
-PidgeotEvosAttacks:
+LuxioEvosAttacks:
+	db EVOLVE_LEVEL, 36, LUXRAY
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, SAND_ATTACK
@@ -262,8 +263,7 @@ PidgeotEvosAttacks:
 	db 61, MIRROR_MOVE
 	db 0 ; no more level-up moves
 
-RattataEvosAttacks:
-	db EVOLVE_LEVEL, 20, RATICATE
+LuxrayEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP

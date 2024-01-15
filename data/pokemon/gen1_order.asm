@@ -2,6 +2,9 @@ Pokered_MonIndices:
 	table_width 1, Pokered_MonIndices
 	db KRICKETOT
 	db KRICKETUNE
+	db SHINX
+	db LUXIO
+	db LUXRAY
 	db RHYDON
 	db KANGASKHAN
 	db NIDORAN_M
@@ -149,8 +152,6 @@ Pokered_MonIndices:
 	db HAUNTER
 	db ABRA
 	db ALAKAZAM
-	db PIDGEOTTO
-	db PIDGEOT
 	db STARMIE
 	db TURTWIG
 	db TORTERRA
@@ -164,7 +165,6 @@ Pokered_MonIndices:
 	db BLISSEY ; MISSINGNO.
 	db PONYTA
 	db RAPIDASH
-	db RATTATA
 	db RATICATE
 	db NIDORINO
 	db NIDORINA

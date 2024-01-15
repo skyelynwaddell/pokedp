@@ -17,9 +17,9 @@ PokedexDataPointerTable:
 	dw BibarelPokedexEntry
 	dw KricketotPokedexEntry
 	dw KricketunePokedexEntry
-	dw PidgeottoPokedexEntry
-	dw PidgeotPokedexEntry
-	dw RattataPokedexEntry
+	dw ShinxPokedexEntry
+	dw LuxioPokedexEntry
+	dw LuxrayPokedexEntry
 	dw RaticatePokedexEntry
 	dw SpearowPokedexEntry
 	dw FearowPokedexEntry

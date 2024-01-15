@@ -18,9 +18,9 @@ EvosAttacksPointers::
 	dw BibarelEvosAttacks
 	dw KricketotEvosAttacks
 	dw KricketuneEvosAttacks
-	dw PidgeottoEvosAttacks
-	dw PidgeotEvosAttacks
-	dw RattataEvosAttacks
+	dw ShinxEvosAttacks
+	dw LuxioEvosAttacks
+	dw LuxrayEvosAttacks
 	dw RaticateEvosAttacks
 	dw SpearowEvosAttacks
 	dw FearowEvosAttacks

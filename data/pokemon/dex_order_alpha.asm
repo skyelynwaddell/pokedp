@@ -18,6 +18,9 @@ AlphabeticalPokedexOrder:
 	db BIBAREL
 	db KRICKETOT
 	db KRICKETUNE
+	db SHINX
+	db LUXIO
+	db LUXRAY
 	db ABRA
 	db AERODACTYL
 	db AIPOM
@@ -164,8 +167,6 @@ AlphabeticalPokedexOrder:
 	db PERSIAN
 	db PHANPY
 	db PICHU
-	db PIDGEOT
-	db PIDGEOTTO
 	db PIKACHU
 	db PILOSWINE
 	db PINECO
@@ -187,7 +188,6 @@ AlphabeticalPokedexOrder:
 	db RAIKOU
 	db RAPIDASH
 	db RATICATE
-	db RATTATA
 	db REMORAID
 	db RHYDON
 	db RHYHORN
